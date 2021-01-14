@@ -15,15 +15,13 @@
    text-align:center; 
 }
 
+h2 { font-size: 30px;
+	font-family: 'Bodoni Moda', serif;
+}
 
-body {
-  padding: 0;
-  margin: 0;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 18px;
-  line-height: 150%;
-  color: #333;
-  background: #efeee7;
+p {
+  font-family: 'Tahoma', serif;
+  font-size: 15px;
 }
 
 header {
