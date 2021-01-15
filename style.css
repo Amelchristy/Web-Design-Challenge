@@ -17,11 +17,17 @@
 
 h2 { font-size: 30px;
 	font-family: 'Bodoni Moda', serif;
+	color: #4aa5c2;
+	font-weight: bold;
 }
 
+h3 { font-size: 30px;
+	font-family: 'Bodoni Moda', serif;
+
+}
 p {
   font-family: 'Tahoma', serif;
-  font-size: 15px;
+  font-size: 13px;
 }
 
 header {
