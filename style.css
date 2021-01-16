@@ -25,6 +25,7 @@ h3 { font-size: 30px;
 	font-family: 'Bodoni Moda', serif;
 
 }
+
 p {
   font-family: 'Tahoma', serif;
   font-size: 13px;
@@ -38,4 +39,8 @@ h6 { font-size: 20px;
 	font-family: 'Bodoni Moda', serif;
 	color: #4aa5c2;
 	font-weight: 'bold';
-text-align: center;}
+	text-align: center;
+}
+
+table { table-layout: fixed;
+ }
