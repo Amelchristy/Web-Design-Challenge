@@ -1,4 +1,6 @@
 # Web-Design-Challenge
+For this challenge, I will be  creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting weather data.
+In building this dashboard, I'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them. Here is the link to the landing page:
 
 https://AmelChristy.github.io/Web-Design-Challenge/Index.html
 
@@ -11,7 +13,8 @@ There are a total of 7 pages;
 A landing page containing:
 
 An explanation of the project.
-Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
+Links to each visualizations page. 
+Sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
 
 
 Four visualization pages, each with:
