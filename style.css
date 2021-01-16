@@ -16,7 +16,7 @@
 }
 
 h2 { font-size: 30px;
-	font-family: 'Bodoni Moda', serif;
+	font-family: 'Bodoni Moda', serif;;
 	color: #4aa5c2;
 	font-weight: bold;
 }
@@ -33,3 +33,9 @@ p {
 header {
   background: #333;
 }
+
+h6 { font-size: 20px;
+	font-family: 'Bodoni Moda', serif;
+	color: #4aa5c2;
+	font-weight: 'bold';
+text-align: center;}
