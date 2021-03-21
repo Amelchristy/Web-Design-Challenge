@@ -1,5 +1,5 @@
 # Web-Design-Challenge
-For this challenge, I will be  creating a visualization dashboard website using visualizations we've created in a past assignment. The assignment visualize the weather of 500+ cities across the world of varying distance from the equator utilizing a simple Python library and the OpenWeatherMap API. I created scatterplots from there and used the plots for this web design challenge. 
+For this challenge, I will be  creating a visualization dashboard website using visualizations I have created in a past assignment. The past assignment visualize the weather of 500+ cities across the world of varying distance from the equator utilizing a simple Python library and the OpenWeatherMap API. I created scatterplots from there and used the plots for this web design challenge. 
 In building this dashboard, I'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them. Here is the link to the landing page:
 
 https://AmelChristy.github.io/Web-Design-Challenge/Index.html
