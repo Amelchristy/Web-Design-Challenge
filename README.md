@@ -7,19 +7,19 @@ To do this, I utilized a simple Python library and the OpenWeatherMap API. I cre
 
 The project includes a total of 7 pages; 
 
-A landing page containing: 
+## A landing page containing: 
 
 This page includes an explanation of the project with links to each visualization page. It also has a sidebar containing preview images of each plot, and clicking an image takes the user to that visualization. 
 
-Four visualization pages, each with: 
+## Four visualization pages, each with: 
 
 A descriptive title and heading tag along with the plot/visualization itself for the selected comparison.  
 
-A "Comparisons" page that: 
+## A "Comparisons" page that: 
 
 This page contains all of the visualizations on the same page so they can be easily compared and uses a Bootstrap grid for the visualizations. 
 
-A "Data" page that: 
+## A "Data" page that: 
 
 Displays a responsive table containing the data used in the visualizations.  
 
